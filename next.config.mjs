@@ -10,6 +10,9 @@ const nextConfig = {
     unoptimized: true,
   },
   output: 'export',
+  basePath: '/hanssam',
+  assetPrefix: '/hanssam/',
+    
 }
 
 export default nextConfig
