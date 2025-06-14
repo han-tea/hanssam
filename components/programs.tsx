@@ -109,7 +109,7 @@ export default function Programs() {
               </div>
               <div className="relative aspect-video w-full">
                 <Image
-                  src="/mathclinic.jpg"
+                  src="/hanssam/mathclinic.jpg"
                   alt="Math Clinic 수업 현장"
                   width={600}
                   height={400}
@@ -226,7 +226,7 @@ export default function Programs() {
               </div>
               <div className="relative aspect-video w-full">
                 <Image
-                  src="/coding.jpg"
+                  src="/hanssam/coding.jpg"
                   alt="Coding Jump-start 수업 현장"
                   width={600}
                   height={400}
