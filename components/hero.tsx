@@ -50,7 +50,7 @@ export default function Hero() {
         <div className={`lg:w-1/2 ${isVisible ? "fade-in visible" : "fade-in"}`} style={{ transitionDelay: "0.3s" }}>
           <div className="relative w-full aspect-square max-w-md mx-auto">
             <Image
-              src="/profile.jpg"
+              src="/hanssam/profile.jpg"
               alt="한지쌤의 프로필 사진"
               width={600}
               height={600}
