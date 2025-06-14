@@ -18,7 +18,7 @@ const timelineData: TimelineItem[] = [
     date: "2014년 3월",
     title: "교직 첫 발걸음",
     description: "수학교사로서의 첫 발걸음을 내딛었습니다. 학생들과 함께 수학의 아름다움을 탐구하기 시작했어요.",
-    image: "/first-step.jpg",
+    image: "/hanssam/first-step.jpg",
     position: "left",
   },
   {
@@ -26,7 +26,7 @@ const timelineData: TimelineItem[] = [
     date: "2016년 4월",
     title: "Math Clinic 시작",
     description: "수학에 어려움을 겪는 학생들을 위한 맞춤형 학습 프로그램 'Math Clinic'을 시작했습니다.",
-    image: "/mathclinic.jpg", 
+    image: "/hanssam/mathclinic.jpg", 
     position: "right",
   },
   {
@@ -35,7 +35,7 @@ const timelineData: TimelineItem[] = [
     title: "수학체험전 개최",
     description:
       "중학교에서 '수학체험전'을 기획하고 개최했습니다. 학생들이 직접 체험하며 수학의 재미를 발견하는 시간이었어요.",
-    image: "/math-play.jpg",
+    image: "/hanssam/math-play.jpg",
     position: "left",
   },
   {
@@ -43,7 +43,7 @@ const timelineData: TimelineItem[] = [
     date: "2023년 9월",
     title: "정보 교사로 한 걸음 더!",
     description: "정보컴퓨터 교육 전공을 위해 교육대학원 입학을 했습니다. 학생들에게 새로운 교육을 제공하기 위한 준비할 수 있는 시간들이었어요.",
-    image: "/school.jpg",
+    image: "/hanssam/school.jpg",
     position: "right",
   },
   {
@@ -51,7 +51,7 @@ const timelineData: TimelineItem[] = [
     date: "2025년 현재",
     title: "수학×에듀테크 수업 개발",
     description: "에듀테크를 활용하여 어떻게 수업을 재밌게 운영할지에 대해 고민하고, 교사를 대상으로 하는 에듀테크 강의를 통해 지식과 경험을 나누고 있습니다.",
-    image: "/math-tech.jpg",
+    image: "/hanssam/math-tech.jpg",
     position: "left",
   },
 ]
